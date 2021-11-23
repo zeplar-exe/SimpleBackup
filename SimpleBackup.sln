@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBackup", "SimpleBackup\SimpleBackup.csproj", "{6248167B-AC6D-4BA5-9F1F-21D6D9BEE844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6248167B-AC6D-4BA5-9F1F-21D6D9BEE844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6248167B-AC6D-4BA5-9F1F-21D6D9BEE844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6248167B-AC6D-4BA5-9F1F-21D6D9BEE844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6248167B-AC6D-4BA5-9F1F-21D6D9BEE844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
